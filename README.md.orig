@@ -1,9 +1,9 @@
 # github-demo
 A simple demo
 Edit of demo to test rebasing 
-Added new files to check rebasing
 <<<<<<< HEAD
+Added new files to check rebasing
 Added info about features
 =======
-Added info about feature v2 and v1
->>>>>>> c9bd260 (Added info about feature v1 and v2 in readme.md)
+Conflict creating
+>>>>>>> ce0d8634386de45420e98cc114f43a64d251b94e

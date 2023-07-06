@@ -3,7 +3,7 @@ A simple demo
 Edit of demo to test rebasing 
 Added new files to check rebasing
 <<<<<<< HEAD
-Added info about feature v2 and v1
-=======
 Added info about features
->>>>>>> a148118 (Update of readme.md)
+=======
+Added info about feature v2 and v1
+>>>>>>> c9bd260 (Added info about feature v1 and v2 in readme.md)

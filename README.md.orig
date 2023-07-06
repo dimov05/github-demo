@@ -1,0 +1,9 @@
+# github-demo
+A simple demo
+Edit of demo to test rebasing 
+Added new files to check rebasing
+<<<<<<< HEAD
+Added info about feature v2 and v1
+=======
+Added info about features
+>>>>>>> a148118 (Update of readme.md)

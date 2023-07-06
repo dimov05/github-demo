@@ -1,1 +1,1 @@
-Last new text file to test rebase
+Second test of rebase with conflicts!

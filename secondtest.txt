@@ -1,1 +1,1 @@
-Adding a second text file to test rebasing after
+Erasing this file :)

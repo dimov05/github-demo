@@ -1,1 +1,2 @@
 Second test of rebase with conflicts!
+Test #1

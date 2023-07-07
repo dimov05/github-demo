@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="981d04ef-0193-4cca-b53c-ea2124b072d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/github-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lastNewFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lastNewFile.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature__v2",
+    "git-widget-placeholder": "Merging feature__v1",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688737865778</updated>
-      <workItem from="1688737871687" duration="67000" />
+      <workItem from="1688737871687" duration="134000" />
     </task>
     <servers />
   </component>

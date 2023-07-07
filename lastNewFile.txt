@@ -1,2 +1,5 @@
 Second test of  with conflicts!
 Test 23232!
+Second test of rebase with conflicts!
+Test #1
+
